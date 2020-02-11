@@ -12,4 +12,4 @@ For encoding text to image this program using replacement vaandom lue of blue RG
 
 Random allocation guarantees that replaced pixels will be look like a basic noise on the image, and choice of blue channel determined by worst perception of blue color by human eye.
 
-Text encodes to the container text by the way of transfer text to the binary code and then replacement letters of Russian alphabet to the English when it is "1" and not replacement when it is "0".
+Text encodes to the container text by the way of transfer text to the binary code and then replacement similar letters of Russian alphabet to the English (ayopxcAETOPHKXCBM) when it is "1" and not replacement when it is "0".
